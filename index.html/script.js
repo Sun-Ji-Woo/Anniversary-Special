@@ -35,7 +35,7 @@ function validateName() {
 function step3() {
     app.innerHTML = `
         <h1>Hm, interesting!</h1>
-        <p>Anyway, I won't disturb you more. Oh, by the way, your son had dropped the following message. Click next to view it.</p>
+        <p>Well then, I won't disturb you more, good luck with your date! Oh, by the way, your son had dropped the following message. Click next to view it.</p>
         <button onclick="step4()">Next</button>
     `;
 }
