@@ -16,7 +16,7 @@ function step2() {
         <h1>May I know who is your special somebody tonight?</h1>
         <input type="text" id="nameInput" placeholder="Enter dad's full name">
         <button onclick="validateName()">Submit</button>
-        <p id="hint" style="color: red; display: none;">One of your son here, just correctly insert dad's full name.</p>
+        <p id="hint" style="color: red; display: none;">Your son here, just correctly insert dad's full name.</p>
     `;
 }
 
